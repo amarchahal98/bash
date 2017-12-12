@@ -1,0 +1,69 @@
+
+Start-Date: 2017-12-01  10:11:42
+Commandline: apt-get install vim
+Requested-By: vcn (1000)
+Install: vim-runtime:amd64 (2:7.4.1689-3ubuntu1.2, automatic), vim:amd64 (2:7.4.1689-3ubuntu1.2)
+End-Date: 2017-12-01  10:11:51
+
+Start-Date: 2017-12-01  13:08:43
+Commandline: apt-get upgrade
+Requested-By: vcn (1000)
+Upgrade: unity-control-center-faces:amd64 (15.04.0+16.04.20170214-0ubuntu1, 15.04.0+16.04.20170214-0ubuntu2), va-driver-all:amd64 (1.7.0-1, 1.7.0-1ubuntu0.1), unity-control-center:amd64 (15.04.0+16.04.20170214-0ubuntu1, 15.04.0+16.04.20170214-0ubuntu2), thunderbird-gnome-support:amd64 (1:52.4.0+build1-0ubuntu0.16.04.2, 1:52.5.0+build1-0ubuntu0.16.04.1), dpkg:amd64 (1.18.4ubuntu1.2, 1.18.4ubuntu1.3), libva1:amd64 (1.7.0-1, 1.7.0-1ubuntu0.1), thunderbird-locale-en-us:amd64 (1:52.4.0+build1-0ubuntu0.16.04.2, 1:52.5.0+build1-0ubuntu0.16.04.1), firefox-locale-en:amd64 (57.0+build4-0ubuntu0.16.04.6, 57.0.1+build2-0ubuntu0.16.04.1), thunderbird:amd64 (1:52.4.0+build1-0ubuntu0.16.04.2, 1:52.5.0+build1-0ubuntu0.16.04.1), libunity-control-center1:amd64 (15.04.0+16.04.20170214-0ubuntu1, 15.04.0+16.04.20170214-0ubuntu2), firefox:amd64 (57.0+build4-0ubuntu0.16.04.6, 57.0.1+build2-0ubuntu0.16.04.1), libdpkg-perl:amd64 (1.18.4ubuntu1.2, 1.18.4ubuntu1.3), thunderbird-locale-en:amd64 (1:52.4.0+build1-0ubuntu0.16.04.2, 1:52.5.0+build1-0ubuntu0.16.04.1), dpkg-dev:amd64 (1.18.4ubuntu1.2, 1.18.4ubuntu1.3)
+End-Date: 2017-12-01  13:09:33
+
+Start-Date: 2017-12-01  14:23:26
+Commandline: apt-get install google-chrome-stable
+Requested-By: vcn (1000)
+Install: libindicator7:amd64 (12.10.2+16.04.20151208-0ubuntu1, automatic), google-chrome-stable:amd64 (62.0.3202.94-1), libappindicator1:amd64 (12.10.1+16.04.20170215-0ubuntu1, automatic)
+End-Date: 2017-12-01  14:23:44
+
+Start-Date: 2017-12-04  09:33:28
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: evince:amd64 (3.18.2-1ubuntu4.2, 3.18.2-1ubuntu4.3), libevdocument3-4:amd64 (3.18.2-1ubuntu4.2, 3.18.2-1ubuntu4.3), evince-common:amd64 (3.18.2-1ubuntu4.2, 3.18.2-1ubuntu4.3), libevview3-3:amd64 (3.18.2-1ubuntu4.2, 3.18.2-1ubuntu4.3)
+End-Date: 2017-12-04  09:34:01
+
+Start-Date: 2017-12-04  12:43:06
+Commandline: apt-get install network-manager-openvpn-gnome
+Requested-By: vcn (1000)
+Install: libpkcs11-helper1:amd64 (1.11-5, automatic), openvpn:amd64 (2.3.10-1ubuntu2.1, automatic), network-manager-openvpn:amd64 (1.1.93-1ubuntu1.1, automatic), network-manager-openvpn-gnome:amd64 (1.1.93-1ubuntu1.1)
+End-Date: 2017-12-04  12:43:25
+
+Start-Date: 2017-12-05  15:38:13
+Commandline: apt-get install wireshark
+Requested-By: vcn (1000)
+Install: libc-ares2:amd64 (1.10.0-3ubuntu0.2, automatic), libqgsttools-p1:amd64 (5.5.1-4ubuntu2, automatic), libnl-route-3-200:amd64 (3.2.27-1ubuntu0.16.04.1, automatic), libnghttp2-14:amd64 (1.7.1-1, automatic), javascript-common:amd64 (11, automatic), libwiretap6:amd64 (2.2.6+g32dac6a-2ubuntu0.16.04, automatic), geoip-database-extra:amd64 (20160408-1, automatic), libwsutil7:amd64 (2.2.6+g32dac6a-2ubuntu0.16.04, automatic), libjs-openlayers:amd64 (2.13.1+ds2-2, automatic), libwireshark8:amd64 (2.2.6+g32dac6a-2ubuntu0.16.04, automatic), wireshark:amd64 (2.2.6+g32dac6a-2ubuntu0.16.04), libqt5multimediawidgets5:amd64 (5.5.1-4ubuntu2, automatic), libqt5multimedia5-plugins:amd64 (5.5.1-4ubuntu2, automatic), wireshark-common:amd64 (2.2.6+g32dac6a-2ubuntu0.16.04, automatic), libwscodecs1:amd64 (2.2.6+g32dac6a-2ubuntu0.16.04, automatic), libwireshark-data:amd64 (2.2.6+g32dac6a-2ubuntu0.16.04, automatic), wireshark-qt:amd64 (2.2.6+g32dac6a-2ubuntu0.16.04, automatic), libsmi2ldbl:amd64 (0.4.8+dfsg2-11, automatic)
+End-Date: 2017-12-05  15:39:36
+
+Start-Date: 2017-12-06  06:12:26
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libxml2:amd64 (2.9.3+dfsg1-1ubuntu0.3, 2.9.3+dfsg1-1ubuntu0.4), linux-firmware:amd64 (1.157.13, 1.157.14)
+End-Date: 2017-12-06  06:14:38
+
+Start-Date: 2017-12-07  09:50:55
+Commandline: apt-get install ansible
+Requested-By: vcn (1000)
+Install: python-markupsafe:amd64 (0.23-2build2, automatic), python-yaml:amd64 (3.11-3build1, automatic), python-selinux:amd64 (2.4-3build2, automatic), python-crypto:amd64 (2.6.1-6ubuntu0.16.04.2, automatic), python-jinja2:amd64 (2.8-1, automatic), python-paramiko:amd64 (1.16.0-1, automatic), python-ecdsa:amd64 (0.13-2, automatic), python-netaddr:amd64 (0.7.18-1, automatic), ieee-data:amd64 (20150531.1, automatic), ansible:amd64 (2.0.0.2-2ubuntu1), python-httplib2:amd64 (0.9.1+dfsg-1, automatic)
+End-Date: 2017-12-07  09:51:12
+
+Start-Date: 2017-12-07  12:04:31
+Commandline: apt-get install ssh
+Requested-By: vcn (1000)
+Install: openssh-sftp-server:amd64 (1:7.2p2-4ubuntu2.2, automatic), ssh:amd64 (1:7.2p2-4ubuntu2.2), ncurses-term:amd64 (6.0+20160213-1ubuntu1, automatic), openssh-server:amd64 (1:7.2p2-4ubuntu2.2, automatic), ssh-import-id:amd64 (5.5-0ubuntu1, automatic)
+End-Date: 2017-12-07  12:04:50
+
+Start-Date: 2017-12-08  06:36:33
+Commandline: /usr/bin/unattended-upgrade
+Install: linux-headers-4.4.0-103:amd64 (4.4.0-103.126, automatic), linux-image-4.4.0-103-generic:amd64 (4.4.0-103.126, automatic), linux-image-extra-4.4.0-103-generic:amd64 (4.4.0-103.126, automatic), linux-headers-4.4.0-103-generic:amd64 (4.4.0-103.126, automatic)
+Upgrade: linux-headers-generic:amd64 (4.4.0.101.106, 4.4.0.103.108), linux-libc-dev:amd64 (4.4.0-101.124, 4.4.0-103.126), linux-image-generic:amd64 (4.4.0.101.106, 4.4.0.103.108), rsync:amd64 (3.1.1-3ubuntu1, 3.1.1-3ubuntu1.1), linux-generic:amd64 (4.4.0.101.106, 4.4.0.103.108)
+End-Date: 2017-12-08  06:38:14
+
+Start-Date: 2017-12-12  09:52:14
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: openssl:amd64 (1.0.2g-1ubuntu4.9, 1.0.2g-1ubuntu4.10), libssl1.0.0:amd64 (1.0.2g-1ubuntu4.9, 1.0.2g-1ubuntu4.10)
+End-Date: 2017-12-12  09:54:09
+
+Start-Date: 2017-12-12  10:42:48
+Commandline: apt-get install python3-pip
+Requested-By: vcn (1000)
+Install: python3-dev:amd64 (3.5.1-3, automatic), libexpat1-dev:amd64 (2.1.0-7ubuntu0.16.04.3, automatic), python3-pip:amd64 (8.1.1-2ubuntu0.4), python3-wheel:amd64 (0.29.0-1, automatic), python3.5-dev:amd64 (3.5.2-2ubuntu0~16.04.4, automatic), libpython3.5-dev:amd64 (3.5.2-2ubuntu0~16.04.4, automatic), libpython3-dev:amd64 (3.5.1-3, automatic), python-pip-whl:amd64 (8.1.1-2ubuntu0.4, automatic), python3-setuptools:amd64 (20.7.0-1, automatic)
+End-Date: 2017-12-12  10:43:02
