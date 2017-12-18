@@ -1,0 +1,1 @@
+./rtrcreate.sh & ./mailcreate.sh

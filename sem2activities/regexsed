@@ -1,0 +1,29 @@
+Configuration file:  
+
+subnet 192.168.1.0 netmask 255.255.255.0 { # Do not remove this comments # option routers 10.10.1.16 option routers 192.168.1.254; option subnet-mask 255.255.255.0; # this comment should be removed option domain-name "example.com"; option domain-name-servers 192.168.1.1; option time-offset -18000; # Eastern Standard Time (this comment should be removed) range 192.168.1.10 192.168.1.100; 
+
+ 
+
+ 
+
+Task 1 
+
+    Emulate grep with sed. Print all lines starting with option. 
+
+sed –n /option /p 
+
+Task 2 
+
+    Delete all blank lines in the file 
+
+$ sed '/^$/d' 
+
+Task 3 
+
+    Add the following line to the beginning of the file: # NASP19 sed DHCP Configuration 
+
+sed 1 a"# NASP 19 sed DHCP Configuration" 
+
+ 
+
+ 

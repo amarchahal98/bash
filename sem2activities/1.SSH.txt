@@ -1,0 +1,59 @@
+    Describe the following commands: 
+
+    Env 
+
+        Displays all exported variables 
+
+        /usr/bin/env 
+
+        "VARIABLE=variable" 
+
+    set 
+
+        Displays all defined variables, functions, options 
+
+        Define variables, set bash behaviour options 
+
+    unset 
+
+        Un-define variables, settings 
+
+    export 
+
+        Displays exported variables (Scoping) 
+
+        Mark variables to be exported 
+
+    declare 
+
+        Define variables 
+
+        Set special options (read-only export) 
+
+    alias 
+
+        Alias names for commands (can be series of commands) 
+
+    Define the purpose and contents of the following files 
+
+    /etc/profile 
+
+        Define environmental item (umasks, $PATH) for users 
+
+    ~/.bash_profile 
+
+        Config files for the bash shell 
+
+    /etc/bashrc 
+
+        Set commanded alias by bash shell users 
+
+    ~/.bashrc 
+
+        Run whenever /bin/bash is started (interactively) 
+
+    ~/.bash_history 
+
+        A logfile of all commands used in bash since flush 
+
+ 
